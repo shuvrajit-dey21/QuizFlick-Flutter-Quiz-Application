@@ -1,0 +1,482 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Madrid",
+      "Paris",
+      "Berlin",
+      "Rome"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "In what continent is Brazil located?",
+    "options": [
+      "Europe",
+      "Asia",
+      "North America",
+      "South America"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "options": [
+      "Earth",
+      "Jupiter",
+      "Saturn",
+      "Venus"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "options": [
+      "Nile",
+      "Amazon",
+      "Mississippi",
+      "Danube"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Who is the main character in the Harry Potter series?",
+    "options": [
+      "Hermione Granger",
+      "Ron Weasley",
+      "Harry Potter",
+      "Neville Longbottom"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "What is the smallest planet in our solar system?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Earth",
+      "Mercury"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Who wrote the play Romeo and Juliet?",
+    "options": [
+      "William Shakespeare",
+      "Oscar Wilde",
+      "Jane Austen",
+      "Charles Dickens"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "What is the highest mountain in the world?",
+    "options": [
+      "Mont Blanc",
+      "Everest",
+      "Kilimanjaro",
+      "Aconcagua"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "What is the name of the famous painting by Leonardo da Vinci that depicts a woman?",
+    "options": [
+      "Starry Night",
+      "The Persistence of Memory",
+      "The Last Supper",
+      "Mona Lisa"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Who invented the telephone?",
+    "options": [
+      "Nikola Tesla",
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Guglielmo Marconi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Which element has the chemical symbol 'O'?",
+    "options": [
+      "Osmium",
+      "Oxygen",
+      "Oxide",
+      "Oganesson"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Who was the first president of the United States?",
+    "options": [
+      "Abraham Lincoln",
+      "Thomas Jefferson",
+      "George Washington",
+      "John Adams"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": [
+      "China",
+      "Japan",
+      "South Korea",
+      "Thailand"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "In which year did the Titanic sink?",
+    "options": [
+      "1910",
+      "1911",
+      "1912",
+      "1913"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": [
+      "Au",
+      "Ag",
+      "Pb",
+      "Pt"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Saturn"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Who painted the Sistine Chapel ceiling?",
+    "options": [
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Raphael",
+      "Donatello"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "options": [
+      "Sahara",
+      "Gobi",
+      "Kalahari",
+      "Arctic"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "options": [
+      "Marie Curie",
+      "Isaac Newton",
+      "Alexander Fleming",
+      "Louis Pasteur"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Which animal is known as the King of the Jungle?",
+    "options": [
+      "Lion",
+      "Tiger",
+      "Elephant",
+      "Giraffe"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": [
+      "Gold",
+      "Iron",
+      "Diamond",
+      "Platinum"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Which language has the most native speakers in the world?",
+    "options": [
+      "Spanish",
+      "English",
+      "Mandarin Chinese",
+      "Hindi"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Which organ in the human body is primarily responsible for pumping blood?",
+    "options": [
+      "Lungs",
+      "Heart",
+      "Kidney",
+      "Liver"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Which is the longest bone in the human body?",
+    "options": [
+      "Femur",
+      "Humerus",
+      "Tibia",
+      "Radius"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "What is the main ingredient in guacamole?",
+    "options": [
+      "Tomato",
+      "Onion",
+      "Avocado",
+      "Pepper"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Who is the author of the novel '1984'?",
+    "options": [
+      "Aldous Huxley",
+      "George Orwell",
+      "Ray Bradbury",
+      "Arthur C. Clarke"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "What is the boiling point of water at sea level in Celsius?",
+    "options": [
+      "50°C",
+      "100°C",
+      "150°C",
+      "200°C"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "options": [
+      "Earth",
+      "Mars",
+      "Mercury",
+      "Venus"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Which country hosted the 2016 Summer Olympics?",
+    "options": [
+      "China",
+      "Brazil",
+      "Japan",
+      "Russia"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "options": [
+      "Harper Lee",
+      "Mark Twain",
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "What is the capital city of Australia?",
+    "options": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Perth"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Who is credited with discovering the theory of relativity?",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Stephen Hawking",
+      "Galileo Galilei"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Which ocean is the largest by area?",
+    "options": [
+      "Indian Ocean",
+      "Atlantic Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Who painted 'The Starry Night'?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Leonardo da Vinci",
+      "Claude Monet"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "What is the chemical symbol for silver?",
+    "options": [
+      "Si",
+      "Au",
+      "Ag",
+      "Pt"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Which is the largest bone in the human body?",
+    "options": [
+      "Femur",
+      "Humerus",
+      "Tibia",
+      "Radius"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Who developed the first polio vaccine?",
+    "options": [
+      "Jonas Salk",
+      "Louis Pasteur",
+      "Alexander Fleming",
+      "Marie Curie"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Mercury"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "What is the largest internal organ in the human body?",
+    "options": [
+      "Liver",
+      "Kidney",
+      "Heart",
+      "Lung"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Which is the longest river in Asia?",
+    "options": [
+      "Yangtze",
+      "Mekong",
+      "Indus",
+      "Ganges"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Who composed 'The Four Seasons'?",
+    "options": [
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Ludwig van Beethoven",
+      "Antonio Vivaldi"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "What is the hardest natural substance known?",
+    "options": [
+      "Gold",
+      "Platinum",
+      "Iron",
+      "Diamond"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Which animal can be seen on the Porsche logo?",
+    "options": [
+      "Bull",
+      "Horse",
+      "Lion",
+      "Tiger"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Who was the first person to step on the Moon?",
+    "options": [
+      "Buzz Aldrin",
+      "Neil Armstrong",
+      "Yuri Gagarin",
+      "Michael Collins"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "What is the largest country in the world by land area?",
+    "options": [
+      "China",
+      "United States",
+      "Canada",
+      "Russia"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "options": [
+      "Marie Curie",
+      "Isaac Newton",
+      "Alexander Fleming",
+      "Louis Pasteur"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Which city hosted the 2012 Summer Olympics?",
+    "options": [
+      "Sydney",
+      "Athens",
+      "London",
+      "Beijing"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Who wrote 'Pride and Prejudice'?",
+    "options": [
+      "Jane Austen",
+      "Charlotte Brontë",
+      "Emily Dickinson",
+      "Virginia Woolf"
+    ],
+    "correctAnswerIndex": 0
+  }
+]

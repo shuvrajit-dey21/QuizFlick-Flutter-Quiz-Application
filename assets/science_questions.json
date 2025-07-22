@@ -1,0 +1,512 @@
+[
+    {
+        "question": "What is the chemical symbol for water?",
+        "options": [
+            "O",
+            "H2O",
+            "CO2",
+            "NaCl"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What planet is known as the Red Planet?",
+        "options": [
+            "Earth",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What is the speed of light?",
+        "options": [
+            "300,000 km/s",
+            "150,000 km/s",
+            "1,000,000 km/s",
+            "3,000 km/s"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "What gas do plants absorb from the atmosphere?",
+        "options": [
+            "Oxygen",
+            "Hydrogen",
+            "Carbon Dioxide",
+            "Nitrogen"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "options": [
+            "Iron",
+            "Gold",
+            "Diamond",
+            "Quartz"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Which organ in the human body is primarily responsible for filtering blood?",
+        "options": [
+            "Heart",
+            "Liver",
+            "Kidney",
+            "Lungs"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "What is the main gas found in the air we breathe?",
+        "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Hydrogen"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "What is the chemical formula for table salt?",
+        "options": [
+            "H2O",
+            "CO2",
+            "NaCl",
+            "KCl"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "options": [
+            "Nucleus",
+            "Ribosome",
+            "Mitochondria",
+            "Golgi apparatus"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "What is the primary element in the Earth's core?",
+        "options": [
+            "Iron",
+            "Carbon",
+            "Oxygen",
+            "Silicon"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Which gas is most abundant in the Earth's atmosphere?",
+        "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Argon"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "options": [
+            "Gd",
+            "Au",
+            "Ag",
+            "Pb"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What is the basic unit of life?",
+        "options": [
+            "Molecule",
+            "Cell",
+            "Tissue",
+            "Organ"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What type of organism produces its own food through photosynthesis?",
+        "options": [
+            "Heterotroph",
+            "Autotroph",
+            "Decomposer",
+            "Parasite"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What is the boiling point of water at sea level?",
+        "options": [
+            "100°C",
+            "90°C",
+            "80°C",
+            "110°C"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Which organelle is responsible for protein synthesis?",
+        "options": [
+            "Nucleus",
+            "Ribosome",
+            "Mitochondria",
+            "Chloroplast"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What is the most common element in the universe?",
+        "options": [
+            "Oxygen",
+            "Carbon",
+            "Hydrogen",
+            "Helium"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "What is the primary function of the roots of a plant?",
+        "options": [
+            "Photosynthesis",
+            "Nutrient absorption",
+            "Reproduction",
+            "Seed production"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Which planet has the most moons?",
+        "options": [
+            "Earth",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "What is the chemical formula for glucose?",
+        "options": [
+            "C6H12O6",
+            "C12H22O11",
+            "C2H5OH",
+            "CH4"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "'Ophiology' is the study of which of the following animals?",
+        "options": [
+            "Foot & Mouth Disease",
+            "Mad Cow Disease",
+            "Fog fever",
+            "Creutzfeldt-Jakob disease"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Linear momentum can be described in which of the following units?",
+        "options": [
+            "kgm2/s2",
+            "kg/ms2",
+            "kg/ms",
+            "kgm/s"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "question": " What is the PH of H2O?",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Which of the following gas is reduced in the reduction process?",
+        "options": [
+            "Oxygen",
+            "Helium",
+            "Carbon",
+            "Hydrogen"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "question": "Which of the following compound is mainly used in hand sanitizer?",
+        "options": [
+            "Aldehyde",
+            "Acetic acid",
+            "Alcohol",
+            "Ketone"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Acid turns blue litmus paper into which color?",
+        "options": [
+            "Black",
+            "Blue",
+            "Red",
+            "Orange"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "What is the basic unit of our neural system",
+        "options": [
+            "Neutron",
+            "Neuron",
+            "Nephron",
+            "Nucleon"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "According to newton's second law of motion, change in momentum per unit time is equal to ________.",
+        "options": [
+            "Force",
+            "Energy",
+            "Acceleration",
+            "Work"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": " What is the color of SO2 gas?",
+        "options": [
+            "Blue",
+            "Grey",
+            "Colorless",
+            "Brown"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": " What is the color of CuSO4?",
+        "options": [
+            "Blue",
+            "Brown",
+            "Orange",
+            "White"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "question": "How many carbon present in haptane ?",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "5"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What is the S.I unit of lens power?",
+        "options": [
+            "Joule",
+            "Calorie",
+            "Diopter",
+            "Hertz"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "What is the most common gas in the Earth's atmosphere?",
+        "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Argon"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "What is the chemical symbol for potassium?",
+        "options": [
+            "P",
+            "Po",
+            "Pt",
+            "K"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "question": "What type of bond is formed by the sharing of electrons?",
+        "options": [
+            "Ionic",
+            "Covalent",
+            "Metallic",
+            "Hydrogen"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "options": [
+            "Nucleus",
+            "Ribosome",
+            "Mitochondria",
+            "Chloroplast"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "What is the main component of the sun?",
+        "options": [
+            "Oxygen",
+            "Carbon",
+            "Helium",
+            "Hydrogen"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "question": "What is the chemical formula for methane?",
+        "options": [
+            "CH3",
+            "CH4",
+            "CH2",
+            "C2H6"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What is the largest organ in the human body?",
+        "options": [
+            "Heart",
+            "Liver",
+            "Skin",
+            "Lungs"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "What type of reaction involves the loss of electrons?",
+        "options": [
+            "Oxidation",
+            "Reduction",
+            "Hydrolysis",
+            "Condensation"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "What is the smallest particle of an element that retains the properties of that element?",
+        "options": [
+            "Atom",
+            "Molecule",
+            "Ion",
+            "Proton"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "What is the chemical symbol for iron?",
+        "options": [
+            "Fe",
+            "Ir",
+            "In",
+            "F"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "What is the atomic number of carbon?",
+        "options": [
+            "12",
+            "6",
+            "14",
+            "8"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What is the basic unit of a chemical element?",
+        "options": [
+            "Atom",
+            "Molecule",
+            "Compound",
+            "Mixture"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "What gas do animals exhale during respiration?",
+        "options": [
+            "Oxygen",
+            "Hydrogen",
+            "Carbon Dioxide",
+            "Nitrogen"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "What is the most abundant element in the Earth's crust?",
+        "options": [
+            "Oxygen",
+            "Silicon",
+            "Aluminum",
+            "Iron"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "What is the process by which plants make their food?",
+        "options": [
+            "Respiration",
+            "Photosynthesis",
+            "Digestion",
+            "Fermentation"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What is the chemical symbol for sodium?",
+        "options": [
+            "Na",
+            "S",
+            "N",
+            "Sa"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "What is the chemical formula for ammonia?",
+        "options": [
+            "NH4",
+            "NH3",
+            "NH2",
+            "NH"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What is the pH of a neutral solution?",
+        "options": [
+            "0",
+            "7",
+            "14",
+            "1"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What element is essential for the production of thyroid hormones?",
+        "options": [
+            "Calcium",
+            "Iron",
+            "Iodine",
+            "Potassium"
+        ],
+        "correctAnswerIndex": 2
+    }
+]

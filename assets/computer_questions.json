@@ -1,0 +1,612 @@
+[
+    {
+        "question": "What does CPU stand for?",
+        "options": [
+            "Central Processing Unit",
+            "Computer Personal Unit",
+            "Central Process Unit",
+            "Computer Processing Unit"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Which language is primarily used for web development?",
+        "options": [
+            "Python",
+            "HTML",
+            "Java",
+            "C++"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What is the name of the operating system developed by Apple Inc.?",
+        "options": [
+            "Windows",
+            "Linux",
+            "macOS",
+            "Android"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "What does RAM stand for in computer terms?",
+        "options": [
+            "Read Access Memory",
+            "Random Access Memory",
+            "Run Access Memory",
+            "Rapid Access Memory"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What is the main function of an operating system?",
+        "options": [
+            "To manage computer hardware",
+            "To provide entertainment",
+            "To run web applications",
+            "To edit documents"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Which company developed the Java programming language?",
+        "options": [
+            "Microsoft",
+            "Apple",
+            "Sun Microsystems",
+            "IBM"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "What is the term for a malicious program that can replicate itself to spread to other computers?",
+        "options": [
+            "Trojan",
+            "Virus",
+            "Adware",
+            "Spyware"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Which device is primarily used to enter data into a computer?",
+        "options": [
+            "Monitor",
+            "Keyboard",
+            "Printer",
+            "Mouse"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What does URL stand for?",
+        "options": [
+            "Uniform Resource Locator",
+            "Unified Resource Link",
+            "Universal Resource Locator",
+            "Unique Resource Link"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "What is the purpose of a firewall in a computer network?",
+        "options": [
+            "To enhance graphics",
+            "To protect against unauthorized access",
+            "To increase processing speed",
+            "To store data"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Which protocol is used to send emails?",
+        "options": [
+            "HTTP",
+            "FTP",
+            "SMTP",
+            "IMAP"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "What does the acronym 'USB' stand for?",
+        "options": [
+            "Universal Serial Bus",
+            "Universal System Bus",
+            "Unique Serial Bus",
+            "Uniform System Bus"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Which of the following is an open-source operating system?",
+        "options": [
+            "Windows",
+            "macOS",
+            "Linux",
+            "iOS"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "What is a 'byte' in computer terms?",
+        "options": [
+            "A type of computer",
+            "A unit of digital information",
+            "A software application",
+            "A network protocol"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What is the main purpose of a GPU in a computer?",
+        "options": [
+            "To store data",
+            "To process graphics",
+            "To manage network connections",
+            "To run the operating system"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Which company is known for creating the Windows operating system?",
+        "options": [
+            "Google",
+            "Apple",
+            "Microsoft",
+            "IBM"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "What does the term 'cloud computing' refer to?",
+        "options": [
+            "Using computing resources on demand",
+            "Storing data on a local server",
+            "Processing data on a personal computer",
+            "Running software applications offline"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Which of the following is a programming language?",
+        "options": [
+            "Photoshop",
+            "JavaScript",
+            "Google Chrome",
+            "Microsoft Word"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What is the primary purpose of an antivirus software?",
+        "options": [
+            "To edit videos",
+            "To manage files",
+            "To protect against malware",
+            "To update drivers"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Which of the following is a type of non-volatile memory?",
+        "options": [
+            "RAM",
+            "Cache",
+            "Hard Drive",
+            "Processor"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "What is Data Structure?",
+        "options": [
+            "A network protocol",
+            "A software application",
+            "A way to store and organize data",
+            "Computer Processing Unit"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "What data structure is used for recursion?",
+        "options": [
+            "Stack",
+            "Queue",
+            "List",
+            "Array"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "What is the value of the postfix expression 6 3 2 4 + - * ?",
+        "options": [
+            "74",
+            "-18",
+            "22",
+            "40"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "The data structure required for Breadth First Traversal on a graph is?",
+        "options": [
+            "Array",
+            "Stack",
+            "Tree",
+            "Queue"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "question": "What is the time complexity for searching a key or integer in Van Emde Boas data structure?",
+        "options": [
+            "O(M!)",
+            "O(log M!)",
+            "O(log(log M))",
+            "O(M^2)"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "The optimal data structure used to solve Tower of Hanoi is _________",
+        "options": [
+            "Tree",
+            "Heap",
+            "Priority Queue",
+            "Stack"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "question": "What is the smallest unit of information?",
+        "options": [
+            "A Bit",
+            "A Byte",
+            "A Block",
+            "A Nibble"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "What kind of language can computers understand?",
+        "options": [
+            "Normal Language",
+            "Computer Language",
+            "Assembly Language",
+            "High-level Language"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "What is the speed of a computer measured in?",
+        "options": [
+            "Nanoseconds",
+            "Kilo-seconds",
+            "Gigahertz",
+            "Megabytes"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "What is the full form of USB?",
+        "options": [
+            "Unshielded System Board",
+            "Universal System Board",
+            "Unidentified System Bus",
+            "Universal Serial Bus"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "question": "Which one of the following is not a form of data storage media?",
+        "options": [
+            "A database",
+            "Magnetic tape",
+            "Magnetic disc",
+            "Optical disc"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Which of the following is equal to a gigabyte?",
+        "options": [
+            "1024 bytes",
+            "512 GB",
+            "1024 megabytes",
+            "1024 bits"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "What is the meaning of Booting in the system?",
+        "options": [
+            "Restarting the computer",
+            "Installing the program",
+            "Scanning",
+            "Turning off"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Which of the following is the extension of Notepad?",
+        "options": [
+            ".txt",
+            ".xls",
+            ".ppt",
+            ".bmp"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Which of the following is the smallest visual element on a video monitor?",
+        "options": [
+            "Character",
+            "Pixel",
+            "Byte",
+            "Bit"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "How many color dots make up one color pixel on a screen?",
+        "options": [
+            "265",
+            "16",
+            "8",
+            "3"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "question": "What is the term for a temporary storage area that compensates for differences in data rate and data flow between devices?",
+        "options": [
+            "Buffer",
+            "Bus",
+            "Channel",
+            "Modem"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "What is the decimal equivalent of the binary number 10111?",
+        "options": [
+            "21",
+            "39",
+            "42",
+            "23"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "question": "Which of the following is a NoSQL database?",
+        "options": [
+            "MySQL",
+            "PostgreSQL",
+            "MongoDB",
+            "Oracle"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "What is the main function of a DNS server?",
+        "options": [
+            "To store user data",
+            "To manage IP addresses",
+            "To translate domain names to IP addresses",
+            "To manage email services"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "options": [
+            "HyperText Transfer Protocol",
+            "HyperText Transmission Protocol",
+            "HyperText Transfer Program",
+            "HyperText Transport Protocol"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Which language is used for styling web pages?",
+        "options": [
+            "HTML",
+            "JQuery",
+            "CSS",
+            "XML"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "What does SQL stand for?",
+        "options": [
+            "Structured Query Language",
+            "Standard Query Language",
+            "Simple Query Language",
+            "Sequential Query Language"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "What does LAN stand for?",
+        "options": [
+            "Large Area Network",
+            "Local Access Network",
+            "Local Area Network",
+            "Large Access Network"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Which of the following is a type of database management system?",
+        "options": [
+            "SQL",
+            "NoSQL",
+            "HTML",
+            "CSS"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Which of the following is a popular cloud computing service provider?",
+        "options": [
+            "AWS",
+            "SQL",
+            "HTML",
+            "CSS"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "What does AI stand for?",
+        "options": [
+            "Artificial Interface",
+            "Artificial Intelligence",
+            "Automatic Interface",
+            "Automatic Intelligence"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What is the primary use of a firewall in network security?",
+        "options": [
+            "To filter incoming and outgoing traffic",
+            "To enhance graphics",
+            "To increase storage",
+            "To run applications"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Which programming language is primarily used for Android app development?",
+        "options": [
+            "Swift",
+            "Kotlin",
+            "Ruby",
+            "PHP"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What does SSH stand for?",
+        "options": [
+            "Secure Shell",
+            "Secure Socket Host",
+            "Secure System Host",
+            "Secure Socket Handler"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Which of the following is a type of malware?",
+        "options": [
+            "Firewall",
+            "Antivirus",
+            "Worm",
+            "Router"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Which of the following is a text editor?",
+        "options": [
+            "Microsoft Word",
+            "Adobe Photoshop",
+            "Notepad++",
+            "Google Chrome"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "What does GUI stand for?",
+        "options": [
+            "Graphical User Interaction",
+            "Graphical User Interface",
+            "General User Interaction",
+            "General User Interface"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What is the primary purpose of an SSD in a computer?",
+        "options": [
+            "To manage network connections",
+            "To process graphics",
+            "To provide faster data storage",
+            "To run the operating system"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "What is the main function of an IP address?",
+        "options": [
+            "To connect to the internet",
+            "To identify a device on a network",
+            "To enhance graphics",
+            "To store user data"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What does DNS stand for?",
+        "options": [
+            "Data Network Server",
+            "Domain Name System",
+            "Digital Network Service",
+            "Domain Network System"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What is the function of a router in a network?",
+        "options": [
+            "To store data",
+            "To route data between devices",
+            "To provide a firewall",
+            "To enhance graphics"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What does HDMI stand for?",
+        "options": [
+            "High Definition Multimedia Interface",
+            "High Data Multimedia Interface",
+            "High Definition Multimedia Input",
+            "High Definition Media Interface"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Which of the following is a popular web browser?",
+        "options": [
+            "Photoshop",
+            "Excel",
+            "Chrome",
+            "Windows"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Which company developed the Windows operating system?",
+        "options": [
+            "Apple",
+            "Microsoft",
+            "Google",
+            "IBM"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What does CSS stand for?",
+        "options": [
+            "Cascading Style Sheets",
+            "Cascading Style Scripts",
+            "Cascading Sheet Styles",
+            "Cascading Script Styles"
+        ],
+        "correctAnswerIndex": 0
+    }
+]

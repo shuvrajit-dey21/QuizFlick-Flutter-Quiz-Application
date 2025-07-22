@@ -1,0 +1,452 @@
+[
+    {
+        "question": "Who was the first President of the United States?",
+        "options": [
+            "George Washington",
+            "Thomas Jefferson",
+            "Abraham Lincoln",
+            "John Adams"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "What year did World War I begin?",
+        "options": [
+            "1912",
+            "1914",
+            "1918",
+            "1920"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Which ancient civilization built the pyramids?",
+        "options": [
+            "Romans",
+            "Greeks",
+            "Egyptians",
+            "Mayans"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "What was the name of the ship on which the Pilgrims traveled to America?",
+        "options": [
+            "Santa Maria",
+            "Pinta",
+            "Mayflower",
+            "Endeavour"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Who was the first man to step on the moon?",
+        "options": [
+            "Buzz Aldrin",
+            "Yuri Gagarin",
+            "John Glenn",
+            "Neil Armstrong"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "question": "What ancient city was buried by a volcanic eruption from Mount Vesuvius?",
+        "options": [
+            "Pompeii",
+            "Athens",
+            "Sparta",
+            "Troy"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Which war was fought between the North and South regions in the United States?",
+        "options": [
+            "World War I",
+            "World War II",
+            "The Civil War",
+            "The Revolutionary War"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Who was the first female Prime Minister of the United Kingdom?",
+        "options": [
+            "Margaret Thatcher",
+            "Theresa May",
+            "Queen Elizabeth II",
+            "Angela Merkel"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "What was the primary purpose of the Great Wall of China?",
+        "options": [
+            "Trade route",
+            "Tourist attraction",
+            "Defense",
+            "Religious site"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Which empire was known for its use of gladiators?",
+        "options": [
+            "Greek",
+            "Persian",
+            "Roman",
+            "Mongol"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Who discovered America in 1492?",
+        "options": [
+            "Christopher Columbus",
+            "Marco Polo",
+            "Leif Erikson",
+            "Ferdinand Magellan"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "What year did the Berlin Wall fall?",
+        "options": [
+            "1987",
+            "1989",
+            "1991",
+            "1993"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What major event began on October 29, 1929?",
+        "options": [
+            "The Great Depression",
+            "World War II",
+            "The Dust Bowl",
+            "The Cold War"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Who was the first Emperor of Rome?",
+        "options": [
+            "Julius Caesar",
+            "Nero",
+            "Augustus",
+            "Caligula"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Which civilization is known for its pyramids and hieroglyphs?",
+        "options": [
+            "Maya",
+            "Inca",
+            "Aztec",
+            "Ancient Egypt"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "question": "What was the name of the trade route that connected China to the West?",
+        "options": [
+            "The Spice Route",
+            "The Silk Road",
+            "The Amber Road",
+            "The Incense Route"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Who was the famous civil rights leader who delivered the 'I Have a Dream' speech?",
+        "options": [
+            "Malcolm X",
+            "Rosa Parks",
+            "Martin Luther King Jr.",
+            "Frederick Douglass"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "In which country did the Industrial Revolution begin?",
+        "options": [
+            "Germany",
+            "United States",
+            "France",
+            "United Kingdom"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "question": "Who was the main leader of the Soviet Union during World War II?",
+        "options": [
+            "Vladimir Lenin",
+            "Leonid Brezhnev",
+            "Nikita Khrushchev",
+            "Joseph Stalin"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "question": "What was the original purpose of the United Nations when it was founded in 1945?",
+        "options": [
+            "To promote trade",
+            "To maintain international peace and security",
+            "To spread democracy",
+            "To end colonialism"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Who was the first female pharaoh of Egypt?",
+        "options": [
+            "Cleopatra",
+            "Hatshepsut",
+            "Nefertiti",
+            "Elizabeth I"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What event sparked the beginning of the French Revolution?",
+        "options": [
+            "Storming of the Bastille",
+            "Reign of Terror",
+            "Execution of Louis XVI",
+            "Estates-General"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Which document declared the independence of the American colonies from Britain?",
+        "options": [
+            "The Constitution",
+            "The Federalist Papers",
+            "The Declaration of Independence",
+            "The Bill of Rights"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Who was known as the 'Father of Modern Physics'?",
+        "options": [
+            "Isaac Newton",
+            "Albert Einstein",
+            "Galileo Galilei",
+            "Nikola Tesla"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What was the main outcome of the Treaty of Versailles?",
+        "options": [
+            "It ended World War I",
+            "It started World War II",
+            "It unified Germany",
+            "It divided the Roman Empire"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Who was the last Tsar of Russia?",
+        "options": [
+            "Nicholas II",
+            "Alexander III",
+            "Peter the Great",
+            "Catherine the Great"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Which empire was known for its vast network of roads and communication?",
+        "options": [
+            "Ottoman Empire",
+            "Inca Empire",
+            "Roman Empire",
+            "Mongol Empire"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "What was the main cause of the Spanish-American War?",
+        "options": [
+            "Cuban Independence",
+            "Territorial Expansion",
+            "World War I",
+            "Colonial Rivalries"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Which ancient city was famous for its hanging gardens?",
+        "options": [
+            "Babylon",
+            "Athens",
+            "Rome",
+            "Carthage"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Who wrote the influential book 'The Prince'?",
+        "options": [
+            "Machiavelli",
+            "Plato",
+            "Aristotle",
+            "Sun Tzu"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "What year did the Titanic sink?",
+        "options": [
+            "1905",
+            "1912",
+            "1915",
+            "1920"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+        "options": [
+            "Amelia Earhart",
+            "Bessie Coleman",
+            "Harriet Quimby",
+            "Charles Lindbergh"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "What ancient civilization is known for its city-states and democracy?",
+        "options": [
+            "Rome",
+            "Greece",
+            "Egypt",
+            "Mesopotamia"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Who was the first president of South Africa elected by universal suffrage?",
+        "options": [
+            "Nelson Mandela",
+            "Desmond Tutu",
+            "Thabo Mbeki",
+            "Jacob Zuma"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "What was the main trade good of the ancient Mali Empire?",
+        "options": [
+            "Gold",
+            "Silk",
+            "Spices",
+            "Salt"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Which event marked the beginning of the Protestant Reformation?",
+        "options": [
+            "Ninety-Five Theses",
+            "Council of Trent",
+            "Edict of Nantes",
+            "Defenestration of Prague"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Who was the famous queen of France known for her extravagant lifestyle?",
+        "options": [
+            "Marie Antoinette",
+            "Catherine de Medici",
+            "Elizabeth I",
+            "Cleopatra"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "What was the primary cause of the American Civil War?",
+        "options": [
+            "Taxation",
+            "Slavery",
+            "Territorial Expansion",
+            "Trade Disputes"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Which city was the capital of the Byzantine Empire?",
+        "options": [
+            "Rome",
+            "Constantinople",
+            "Athens",
+            "Antioch"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What is the name of the famous battle fought in 1066?",
+        "options": [
+            "Battle of Hastings",
+            "Battle of Waterloo",
+            "Battle of Agincourt",
+            "Battle of the Somme"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Who was the leader of the Soviet Union during the Cuban Missile Crisis?",
+        "options": [
+            "Leonid Brezhnev",
+            "Nikita Khrushchev",
+            "Vladimir Lenin",
+            "Joseph Stalin"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What year did the Berlin Wall fall?",
+        "options": [
+            "1985",
+            "1987",
+            "1989",
+            "1991"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Which war was fought between 1775 and 1783?",
+        "options": [
+            "The American Revolutionary War",
+            "The War of 1812",
+            "The French and Indian War",
+            "The Civil War"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "What ancient structure was built as a tomb for Pharaoh Khufu?",
+        "options": [
+            "The Great Wall of China",
+            "The Colosseum",
+            "The Great Pyramid of Giza",
+            "Stonehenge"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Who was the first African American to win a Nobel Prize?",
+        "options": [
+            "Ralph Bunche",
+            "Martin Luther King Jr.",
+            "Toni Morrison",
+            "Barack Obama"
+        ],
+        "correctAnswerIndex": 0
+    }
+]

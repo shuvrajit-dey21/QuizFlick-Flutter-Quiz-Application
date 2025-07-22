@@ -1,0 +1,452 @@
+[
+    {
+        "question": "What is the largest continent by land area?",
+        "options": [
+            "Africa",
+            "Asia",
+            "North America",
+            "Europe"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Which country has the longest coastline in the world?",
+        "options": [
+            "Canada",
+            "Australia",
+            "Russia",
+            "United States"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "What is the capital city of Australia?",
+        "options": [
+            "Sydney",
+            "Melbourne",
+            "Brisbane",
+            "Canberra"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "question": "Which desert is the largest in the world?",
+        "options": [
+            "Sahara Desert",
+            "Arabian Desert",
+            "Gobi Desert",
+            "Antarctic Desert"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "question": "What river is the longest in the world?",
+        "options": [
+            "Amazon",
+            "Nile",
+            "Yangtze",
+            "Mississippi"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": [
+            "China",
+            "Japan",
+            "South Korea",
+            "India"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Mount Everest is located in which two countries?",
+        "options": [
+            "China and Nepal",
+            "India and Nepal",
+            "China and Bhutan",
+            "India and China"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "What is the capital city of Canada?",
+        "options": [
+            "Toronto",
+            "Vancouver",
+            "Montreal",
+            "Ottawa"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "question": "Which country is the largest by land area in South America?",
+        "options": [
+            "Argentina",
+            "Brazil",
+            "Chile",
+            "Peru"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Which ocean is the smallest by surface area?",
+        "options": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Southern Ocean",
+            "Arctic Ocean"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "question": "What is the capital city of Italy?",
+        "options": [
+            "Venice",
+            "Milan",
+            "Rome",
+            "Naples"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Which country is home to the Amazon Rainforest?",
+        "options": [
+            "Brazil",
+            "Peru",
+            "Colombia",
+            "Ecuador"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Which U.S. state is the largest by land area?",
+        "options": [
+            "California",
+            "Texas",
+            "Alaska",
+            "Montana"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "What is the highest waterfall in the world?",
+        "options": [
+            "Victoria Falls",
+            "Angel Falls",
+            "Niagara Falls",
+            "Iguazu Falls"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Which sea is the saltiest?",
+        "options": [
+            "Red Sea",
+            "Dead Sea",
+            "Mediterranean Sea",
+            "Baltic Sea"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Which country has the most natural lakes?",
+        "options": [
+            "Russia",
+            "Canada",
+            "United States",
+            "Brazil"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "The Great Barrier Reef is located off the coast of which country?",
+        "options": [
+            "Australia",
+            "Indonesia",
+            "Philippines",
+            "Fiji"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Which country has the highest population density?",
+        "options": [
+            "India",
+            "China",
+            "Bangladesh",
+            "Monaco"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "question": "Which country is known as the Land of a Thousand Lakes?",
+        "options": [
+            "Norway",
+            "Sweden",
+            "Finland",
+            "Canada"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Which U.S. state has the nickname 'The Sunshine State'?",
+        "options": [
+            "California",
+            "Florida",
+            "Arizona",
+            "Texas"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What is the longest river in the United States?",
+        "options": [
+            "Mississippi River",
+            "Missouri River",
+            "Colorado River",
+            "Ohio River"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Which is the smallest country in the world by land area?",
+        "options": [
+            "Monaco",
+            "Nauru",
+            "San Marino",
+            "Vatican City"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "question": "What is the capital city of Egypt?",
+        "options": [
+            "Alexandria",
+            "Cairo",
+            "Giza",
+            "Luxor"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Which continent is the driest?",
+        "options": [
+            "Australia",
+            "Antarctica",
+            "Africa",
+            "Asia"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Which mountain range is the longest in the world?",
+        "options": [
+            "Rockies",
+            "Andes",
+            "Himalayas",
+            "Alps"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What is the capital city of Japan?",
+        "options": [
+            "Osaka",
+            "Kyoto",
+            "Tokyo",
+            "Nagoya"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Which country has the largest population in Africa?",
+        "options": [
+            "Nigeria",
+            "Egypt",
+            "Ethiopia",
+            "South Africa"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Which is the largest island in the world?",
+        "options": [
+            "New Guinea",
+            "Borneo",
+            "Madagascar",
+            "Greenland"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "question": "What is the capital city of Brazil?",
+        "options": [
+            "Rio de Janeiro",
+            "São Paulo",
+            "Brasília",
+            "Salvador"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Which country is the largest by land area in Europe?",
+        "options": [
+            "Germany",
+            "France",
+            "Spain",
+            "Ukraine"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "question": "Which ocean is the deepest?",
+        "options": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Southern Ocean",
+            "Pacific Ocean"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "question": "What is the capital city of Thailand?",
+        "options": [
+            "Phuket",
+            "Chiang Mai",
+            "Bangkok",
+            "Pattaya"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Which is the tallest mountain in Africa?",
+        "options": [
+            "Mount Kenya",
+            "Mount Kilimanjaro",
+            "Mount Elgon",
+            "Ras Dashen"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What is the capital city of Spain?",
+        "options": [
+            "Barcelona",
+            "Valencia",
+            "Madrid",
+            "Seville"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Which country is known as the Pearl of the Indian Ocean?",
+        "options": [
+            "Maldives",
+            "Sri Lanka",
+            "Mauritius",
+            "Seychelles"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What is the capital city of Argentina?",
+        "options": [
+            "Buenos Aires",
+            "Córdoba",
+            "Rosario",
+            "Mendoza"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Which U.S. state is the smallest by land area?",
+        "options": [
+            "Rhode Island",
+            "Delaware",
+            "Connecticut",
+            "Hawaii"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "What is the capital city of South Korea?",
+        "options": [
+            "Busan",
+            "Incheon",
+            "Seoul",
+            "Daegu"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Which river flows through Paris?",
+        "options": [
+            "Thames",
+            "Danube",
+            "Seine",
+            "Rhine"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "What is the capital city of Mexico?",
+        "options": [
+            "Guadalajara",
+            "Monterrey",
+            "Cancún",
+            "Mexico City"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "question": "Which is the largest desert in Africa?",
+        "options": [
+            "Kalahari Desert",
+            "Namib Desert",
+            "Sahara Desert",
+            "Libyan Desert"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "What is the capital city of Germany?",
+        "options": [
+            "Hamburg",
+            "Munich",
+            "Berlin",
+            "Frankfurt"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Which country is known for the Great Wall?",
+        "options": [
+            "Japan",
+            "China",
+            "India",
+            "Mongolia"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What is the capital city of Greece?",
+        "options": [
+            "Thessaloniki",
+            "Patras",
+            "Athens",
+            "Heraklion"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Which country is the largest by land area in Oceania?",
+        "options": [
+            "New Zealand",
+            "Fiji",
+            "Papua New Guinea",
+            "Australia"
+        ],
+        "correctAnswerIndex": 3
+    }
+]
