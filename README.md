@@ -146,7 +146,7 @@ flutter_quiz_app_project/
 
 1. **Clone the repository**
    ```bash
-   git clone git clone https://github.com/shuvrajit-dey21/QuizFlick-Flutter-Quiz-Application.git
+   git clone https://github.com/shuvrajit-dey21/QuizFlick-Flutter-Quiz-Application.git
    cd QuizFlick-Flutter-Quiz-Application
    ```
 
